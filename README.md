@@ -78,6 +78,13 @@ The dynamic retial dashboard answers several business questions, providing in-de
     ![Yealy Sales Trend](https://github.com/user-attachments/assets/49eceaf7-03e6-4edb-b15d-e5d3453ee3ea)
 
 # Dashboard
+Snapshot of the dashboard:
+
+![Dashboard Snapshot](https://github.com/user-attachments/assets/51557030-1365-4fcb-b3ff-58a922454309)
+
+# Conclusion
+
+
 
 
 
