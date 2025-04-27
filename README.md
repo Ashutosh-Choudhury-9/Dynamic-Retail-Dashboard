@@ -42,7 +42,7 @@ The KPI table consolidates the most essential performance metrics for the retail
 | Count of Order ID     | No. Of Orders  | 🛒     |
 | Sum of Profit Margin  | Profit Margin  | 🔍     |
 
-# Problem Statements Solved
+# 🎯 Problem Statements Solved
 The dynamic retial dashboard answers several business questions, providing in-depth insights into key performance areas:
 
 1. **KPIs** : Total Sales, Total Profit, Quantity, Number of Orders, Profit Margin.
@@ -77,12 +77,13 @@ The dynamic retial dashboard answers several business questions, providing in-de
 
     ![Yealy Sales Trend](https://github.com/user-attachments/assets/49eceaf7-03e6-4edb-b15d-e5d3453ee3ea)
 
-# Dashboard
+# 📊 Dashboard
 Snapshot of the dashboard:
 
 ![Dashboard Snapshot](https://github.com/user-attachments/assets/b3fd71cf-de91-4e78-a1e4-e72b05c8678f)
 
-# Conclusion
+# 🏁 Conclusion
+
 
 
 
