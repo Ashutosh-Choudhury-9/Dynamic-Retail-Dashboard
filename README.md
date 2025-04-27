@@ -7,9 +7,9 @@ The dashboard includes key performance indicators (KPls) that track important me
 # 📑 ORDERS Table
 | Order ID        | Order Date | Ship Date  | Ship Mode     | Customer Name      | Segment     | City         | State           | Country        | Product Name                   | Sales    | Quantity | Profit   |
 |:----------------|:-----------|:-----------|:--------------|:-------------------|:------------|:-------------|:----------------|:---------------|:-------------------------------|---------:|---------:|---------:|
-| CA-2012-124891  | 31-07-2020...  | 31-07-2020 | Same Day      | Rick Hansen        | Consumer    | New York City| New York        | United States  | Plantronics CS510 Headset       | 2309.65  | 7        | 762.18   |
-| IN-2013-77878   | 05-02-2021...  | 07-02-2021 | Second Class  | Justin Ritter      | Corporate   | Wollongong   | New South Wales | Australia      | Novimex Leather Armchair        | 3709.39  | 9        | -288.76  |
-| IN-2013-71249   | 17-10-2021...  | 18-10-2021 | First Class   | Craig Reiter       | Consumer    | Brisbane     | Queensland      | Australia      | Nokia Smart Phone              | 5175.17  | 9        | 919.97   |
-| ES-2013-1579342 | 28-01-2021...  | 30-01-2021 | First Class   | Katherine Murray   | Home Office | Berlin       | Berlin          | Germany        | Motorola Cordless Phone        | 2892.51  | 5        | -96.54   |
-| SG-2013-4320    | 05-11-2021...  | 06-11-2021 | Same Day      | Rick Hansen        | Consumer    | Dakar        | Dakar           | Senegal        | Sharp Wireless Fax             | 2832.96  | 8        | 311.52   |
+| CA-2012-124891  | 31-07-2020  | 31-07-2020 | Same Day      | Rick Hansen        | Consumer    | New York City| New York        | United States  | Plantronics CS510 Headset       | 2309.65  | 7        | 762.18   |
+| IN-2013-77878   | 05-02-2021  | 07-02-2021 | Second Class  | Justin Ritter      | Corporate   | Wollongong   | New South Wales | Australia      | Novimex Leather Armchair        | 3709.39  | 9        | -288.76  |
+| IN-2013-71249   | 17-10-2021  | 18-10-2021 | First Class   | Craig Reiter       | Consumer    | Brisbane     | Queensland      | Australia      | Nokia Smart Phone              | 5175.17  | 9        | 919.97   |
+| ES-2013-1579342 | 28-01-2021  | 30-01-2021 | First Class   | Katherine Murray   | Home Office | Berlin       | Berlin          | Germany        | Motorola Cordless Phone        | 2892.51  | 5        | -96.54   |
+| SG-2013-4320    | 05-11-2021 | 06-11-2021 | Same Day      | Rick Hansen        | Consumer    | Dakar        | Dakar           | Senegal        | Sharp Wireless Fax             | 2832.96  | 8        | 311.52   |
 
