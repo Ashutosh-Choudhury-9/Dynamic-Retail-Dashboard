@@ -80,7 +80,7 @@ The dynamic retial dashboard answers several business questions, providing in-de
 # Dashboard
 Snapshot of the dashboard:
 
-![Dashboard Snapshot](https://github.com/user-attachments/assets/51557030-1365-4fcb-b3ff-58a922454309)
+![Dashboard Snapshot](https://github.com/user-attachments/assets/b3fd71cf-de91-4e78-a1e4-e72b05c8678f)
 
 # Conclusion
 
