@@ -44,7 +44,9 @@ The KPI table consolidates the most essential performance metrics for the retail
 
 # Problem Statements Solved
 1. KPIs – Total Sales, Total Profit, Quantity, Number of Orders, Profit Margin.
+
    ![KPIs](https://github.com/user-attachments/assets/586630b0-a11d-4782-b4a5-374bc0127335)
+   
 2. 
 
 
