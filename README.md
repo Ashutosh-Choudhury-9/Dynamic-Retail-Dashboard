@@ -32,6 +32,8 @@ The dashboard includes key performance indicators (KPls) that track important me
 | Yes      | ES-2011-1276768  | EU             |
 
 # 📌 KPI Table
+The KPI table consolidates the most essential performance metrics for the retail analysis. These KPIs allow the dashboard to provide actionable insights by comparing important aspects of sales performance.
+
 | KPI                  | Name           | Symbol |
 |:---------------------|:---------------|:-------|
 | Sum of Sales          | Total Sales    | 📈     |
