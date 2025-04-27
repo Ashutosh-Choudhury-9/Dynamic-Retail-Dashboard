@@ -31,4 +31,13 @@ The dashboard includes key performance indicators (KPls) that track important me
 | Yes      | CA-2013-118311   | United States  |
 | Yes      | ES-2011-1276768  | EU             |
 
+# 📌 KPI Table
+| KPI                  | Name           | Symbol |
+|:---------------------|:---------------|:-------|
+| Sum of Sales          | Total Sales    | 📈     |
+| Sum of Profit         | Total Profit   | 💰     |
+| Sum of Quantity       | Total Quantity | 📦     |
+| Count of Order ID     | No. Of Orders  | 🛒     |
+| Sum of Profit Margin  | Profit Margin  | 🔍     |
+
 
