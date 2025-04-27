@@ -65,7 +65,17 @@ The dynamic retial dashboard answers several business questions, providing in-de
 
    ![Total Sales by Country](https://github.com/user-attachments/assets/9408b436-9b56-4a1d-8395-c404b559f912)
 
-7. 
+7. **Top 5 Sub-categories** : The best performing sub-categories based on quantity.
+
+   ![Top 5 Sub-category by Total Quantity](https://github.com/user-attachments/assets/34cafa6c-3cf8-41ab-aa9b-7e37ec51855b)
+
+8. **Bottom 5 Sub-categories** : The least performing sub-categories based on quantity.
+
+   ![Bottom 5 Sub-category by Total Quantity](https://github.com/user-attachments/assets/4277eeaf-29b8-4ffc-b480-44a9f731386d)
+
+9. 
+
+
 
 
 
