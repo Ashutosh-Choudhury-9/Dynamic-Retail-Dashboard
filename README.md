@@ -43,11 +43,20 @@ The KPI table consolidates the most essential performance metrics for the retail
 | Sum of Profit Margin  | Profit Margin  | 🔍     |
 
 # Problem Statements Solved
-1. KPIs – Total Sales, Total Profit, Quantity, Number of Orders, Profit Margin.
+The dynamic retial dashboard answers several business questions, providing in-depth insights into key performance areas:
+
+1. **KPIs** : Total Sales, Total Profit, Quantity, Number of Orders, Profit Margin.
 
    ![KPIs](https://github.com/user-attachments/assets/586630b0-a11d-4782-b4a5-374bc0127335)
    
-2. 
+2. **Sales and Profit Analysis** : Understanding overall sales and profitability.
+
+   ![Sales vs Profit](https://github.com/user-attachments/assets/8df46dd9-d6b2-46f2-bd9a-98c3004252a7)
+
+3. **Category-Wise Profit** : Breakdown of profit by product category.
+
+   
+
 
 
 
