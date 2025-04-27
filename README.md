@@ -82,6 +82,14 @@ Snapshot of the dashboard:
 
 ![Dashboard Snapshot](https://github.com/user-attachments/assets/b3fd71cf-de91-4e78-a1e4-e72b05c8678f)
 
+# 🛠️ Tools Used
+- Microsoft Excel
+- Power Query
+- Pivot Tables
+- Slicers & Filters
+- Data Visualization (Bar, Line, Pie Charts)
+- Dynamic KPI Cards
+
 # 🏁 Conclusion
 
 
