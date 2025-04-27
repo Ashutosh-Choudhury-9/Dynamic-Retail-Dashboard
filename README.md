@@ -61,19 +61,25 @@ The dynamic retial dashboard answers several business questions, providing in-de
 
    ![Segment-wise Total Sales %](https://github.com/user-attachments/assets/9620efc0-3984-4fb8-88d4-83e953fdf3fa)
 
-6. **Sales by Country** : Geographic analysis of sales performance by different countries.
+5. **Sales by Country** : Geographic analysis of sales performance by different countries.
 
    ![Total Sales by Country](https://github.com/user-attachments/assets/9408b436-9b56-4a1d-8395-c404b559f912)
 
-7. **Top 5 Sub-categories** : The best performing sub-categories based on quantity.
+6. **Top 5 Sub-categories** : The best performing sub-categories based on quantity.
 
    ![Top 5 Sub-category by Total Quantity](https://github.com/user-attachments/assets/34cafa6c-3cf8-41ab-aa9b-7e37ec51855b)
 
-8. **Bottom 5 Sub-categories** : The least performing sub-categories based on quantity.
+7. **Bottom 5 Sub-categories** : The least performing sub-categories based on quantity.
 
    ![Bottom 5 Sub-category by Total Quantity](https://github.com/user-attachments/assets/4277eeaf-29b8-4ffc-b480-44a9f731386d)
 
-9. 
+8. **Yearly Sales Trend** : Understanding sales trend over the years.
+
+    ![Yealy Sales Trend](https://github.com/user-attachments/assets/49eceaf7-03e6-4edb-b15d-e5d3453ee3ea)
+
+# Dashboard
+
+
 
 
 
