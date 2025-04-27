@@ -55,7 +55,20 @@ The dynamic retial dashboard answers several business questions, providing in-de
 
 3. **Category-Wise Profit** : Breakdown of profit by product category.
 
-   
+   ![Category-wise Total Profit](https://github.com/user-attachments/assets/d31538b8-add7-44e3-ac7b-b6b10d966702)
+
+4. **Segment-Wise Sales Share %** : Sales distribution across segments.
+
+   ![Segment-wise Total Sales %](https://github.com/user-attachments/assets/9620efc0-3984-4fb8-88d4-83e953fdf3fa)
+
+6. **Sales by Country** : Geographic analysis of sales performance by different countries.
+
+   ![Total Sales by Country](https://github.com/user-attachments/assets/9408b436-9b56-4a1d-8395-c404b559f912)
+
+7. 
+
+
+
 
 
 
