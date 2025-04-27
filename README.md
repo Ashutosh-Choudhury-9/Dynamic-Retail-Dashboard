@@ -42,7 +42,9 @@ The KPI table consolidates the most essential performance metrics for the retail
 | Count of Order ID     | No. Of Orders  | 🛒     |
 | Sum of Profit Margin  | Profit Margin  | 🔍     |
 
-# ![image](https://github.com/user-attachments/assets/b1859aac-9388-4cc5-a3ff-c27f30d7131b) Problem Statements Solved
+# Problem Statements Solved
+1. KPIs – Total Sales, Total Profit, Quantity, Number of Orders, Profit Margin.
+   
 
 
 
